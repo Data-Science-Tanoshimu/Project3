@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Subreddit Classification</title>
+	<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+  </head>
+  <body>
+
+<h3>Your post:</h3>
+<div>{{ content }}</div>
+
+<h3>Prediction:</h3>
+<div>This is from <strong>{{ prediction }}</strong> subreddit.</div>
+
+<div><a href="./">[Back]</a></div>
+
+
+  </body>
+</html>
