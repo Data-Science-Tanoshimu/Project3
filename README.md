@@ -1,4 +1,4 @@
-# Project 3: Web APIs & NLP
+# Project 3: Reddit Post Classification
 
 ### Problem Statement
 
