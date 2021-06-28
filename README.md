@@ -1,4 +1,4 @@
-# Project 3: Reddit Post Classification
+# Reddit Post Classification
 
 ### Problem Statement
 
